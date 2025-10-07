@@ -27,4 +27,4 @@ Also you can edit main folder yourself. It will start search from specified fold
 
 ### 2️⃣ Run It
 ```
-python update_requirements.py
+python Install_requirments_subfolders.py
