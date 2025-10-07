@@ -22,7 +22,7 @@ Ideal for monorepos or modular Python projects where each library or app has its
 ## Usage
 
 ### 1️⃣ Place the Script
-Put the script (e.g. `update_requirements.py`) anywhere in your project — ideally in the main directory.
+Put the script (e.g. `Install_requirments_subfolders.py`) anywhere in your project — ideally in the main directory.
 Also you can edit main folder yourself. It will start search from specified folder.
 
 ### 2️⃣ Run It
